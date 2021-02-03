@@ -14,5 +14,5 @@
 #   Test Package:              'Cmd + Shift + T'
 
 hello <- function() {
-  print("Hello from private grithub")
+  print("Hello from private grithub with changes")
 }
