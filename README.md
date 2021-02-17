@@ -1,3 +1,3 @@
 # grithub
 
-for gritty
+For Gritty (and Steve)
